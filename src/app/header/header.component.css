@@ -1,0 +1,7 @@
+.logo {
+    width: 120px;
+    height: 31px;
+    background: url('https://ng.ant.design/assets/img/logo.svg') 50% 50% no-repeat;
+    margin: 16px 28px 16px 0;
+    float: left;
+  }
